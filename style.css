@@ -1,0 +1,28 @@
+
+
+body{
+    font-size: 22px;
+    font-family: monospace;
+
+}
+
+h1,h2{
+    color: blue;
+}
+
+p{
+    color: purple;
+}
+
+.highlight{
+    background-color: gold;
+    text-transform: uppercase;
+}
+
+.gray{
+    color: gray;
+}
+
+#second{
+    font-style: italic;
+}
